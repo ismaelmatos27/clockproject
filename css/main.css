@@ -1,0 +1,63 @@
+body{
+  font-family:"comic sans ms", sans-serif;
+  text-align: center;
+  background-color: black;
+  background-image: url(../img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: gold;
+}
+.row{
+  display: inline-block;
+}
+h4{
+  font-size: 35px;
+
+}
+
+h6{
+  padding-top: 45px;
+  font-size: 55px;
+  font-weight: bold;
+  color: gold;
+}
+h1,h2{
+  margin-top: -10px;
+}
+.actualTime{
+  margin: 0 auto;
+  margin-bottom: 25px;
+  width: 300px;
+  height: 85px;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+
+  border-radius: 5px;
+}
+.thumbnail .caption{
+  width: 160px;
+}
+.thumbnail>img{
+
+  height: 100px;
+}
+
+.longname{
+  font-size: 21px;
+}
+#rioj,#sfco{
+  height: 113px;
+}
+
+#choose{
+  display: none;
+}
+.thumbnail{
+  margin: 10px 0 0 0;
+}
+.top-row{
+  margin: 5px 0 10px 0;
+}
